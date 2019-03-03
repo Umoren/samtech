@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5d42784e-e3ae-4a8a-acb9-4596aa65393d/deploy-status)](https://app.netlify.com/sites/samtech/deploys)
+
 # [Umoren Samuel - Freelancer]
 
 I built this website using Start Bootstrap Freelancer theme.
